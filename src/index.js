@@ -31,7 +31,7 @@ const polygonSeries = chart
 // Fetch example data from JSON asset.
 fetch(
   document.head.baseURI +
-    "examples/assets/lcjs_example_0015_confidenceEllipseXY-data.json"
+    "examples/assets/lcjs_example_0015_confidenceEllipseXY-data-confidenceEllipseXY.json"
 )
   .then((r) => r.json())
   .then((data) => {
