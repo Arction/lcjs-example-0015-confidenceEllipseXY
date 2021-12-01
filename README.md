@@ -78,12 +78,12 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © Arction Ltd 2009-2020. All rights reserved.
 
 
-[Lightning chart]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/interfaces/lightningchart.html
-[Color factory CSS]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/globals.html#colorcss
-[2D Point shape options]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/enums/pointshape.html
-[Solid line style]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/classes/solidline.html
-[Solid fill style]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/classes/solidfill.html
-[Chart XY]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/classes/chartxy.html
-[Point Series 2D]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/classes/pointseries.html
-[Polygon Series 2D]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/classes/polygonseries.html
+[Lightning chart]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/interfaces/lightningchart.html
+[Color factory CSS]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/globals.html#colorcss
+[2D Point shape options]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/enums/pointshape.html
+[Solid line style]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/classes/solidline.html
+[Solid fill style]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/classes/solidfill.html
+[Chart XY]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/classes/chartxy.html
+[Point Series 2D]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/classes/pointseries.html
+[Polygon Series 2D]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/classes/polygonseries.html
 
