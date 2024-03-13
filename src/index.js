@@ -10,7 +10,7 @@ const { lightningChart, PointShape, ColorCSS, SolidLine, SolidFill, Themes } = l
 // Create chart and series.
 const chart = lightningChart()
     .ChartXY({
-        theme: Themes[new URLSearchParams(window.location.search).get('theme') || 'darkGold'] || undefined,
+        theme: Themes[new URLSearchParams(window.location.search).get('theme') || 'darkGold'] || undefined
     })
     .setTitle('Scatter chart + confidence Ellipse')
 
